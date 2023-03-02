@@ -1,3 +1,3 @@
-# biweekly-report-4-loganbarnhart01
+# Implementing / Pipelining Mixup, Cutmix, and Random Crop.
 
-This week I implement three data augmentation methods we've recently covered: mixup, random cropping, and mixcut, then detail the process for creating a pipeline to train a model with the methods. 
+In `Biweekly_Report_4.ipynb` I implement some simple image data augmentation methods I had learned about. To become familiar with implementing these methods at scale for model-training I built a pipeline to integrate these augmentations. 
